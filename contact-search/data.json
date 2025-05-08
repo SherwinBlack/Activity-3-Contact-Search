@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "sample@grc.com",
+      "phone": "+1-202-555-0173",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      },
+      "company": {
+        "name": "Tech Solutions",
+        "position": "Software Engineer",
+        "department": "Development"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Kenneth Tamesa",
+      "email": "kenneth.tamesa@example.com",
+      "phone": "+1-305-555-0198",
+      "address": {
+        "street": "456 Oak Avenue",
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33101"
+      },
+      "company": {
+        "name": "Data Systems Inc.",
+        "position": "Data Analyst",
+        "department": "Analytics"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Renz Dela Cruz",
+      "email": "renz.delacruz@example.com",
+      "phone": "+63-912-345-6789",
+      "address": {
+        "street": "789 Rizal Street",
+        "city": "Manila",
+        "state": "NCR",
+        "zip": "1000"
+      },
+      "company": {
+        "name": "Cloud Innovations",
+        "position": "DevOps Engineer",
+        "department": "IT Operations"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Christian Francisco",
+      "email": "christian.francisco@example.com",
+      "phone": "+1-415-555-0123",
+      "address": {
+        "street": "101 Market Street",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94103"
+      },
+      "company": {
+        "name": "Golden Gate Tech",
+        "position": "Product Manager",
+        "department": "Product Development"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Robert Betorico",
+      "email": "robert.betorico@example.com",
+      "phone": "+1-212-555-0156",
+      "address": {
+        "street": "202 Broadway",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10007"
+      },
+      "company": {
+        "name": "Metro Finance Corp.",
+        "position": "Financial Analyst",
+        "department": "Accounting"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Nathan Santos",
+      "email": "nathan.santos@example.com",
+      "phone": "+1-310-555-0177",
+      "address": {
+        "street": "303 Sunset Blvd",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90028"
+      },
+      "company": {
+        "name": "Entertainment Media Group",
+        "position": "Content Creator",
+        "department": "Digital Media"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Jereyl Cherven Nebril",
+      "email": "jereyl.nebril@example.com",
+      "phone": "+1-702-555-0188",
+      "address": {
+        "street": "404 Las Vegas Blvd",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+      },
+      "company": {
+        "name": "Casino Tech Solutions",
+        "position": "UX Designer",
+        "department": "Design"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Loueji Gonzales",
+      "email": "loueji.gonzales@example.com",
+      "phone": "+1-713-555-0165",
+      "address": {
+        "street": "505 Energy Way",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77002"
+      },
+      "company": {
+        "name": "Oil & Gas Innovations",
+        "position": "Petroleum Engineer",
+        "department": "Engineering"
+      }
+    },
+    {
+      "id": 9,
+      "name": "James Nalaunan",
+      "email": "james.nalaunan@example.com",
+      "phone": "+1-206-555-0142",
+      "address": {
+        "street": "606 Pine Street",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101"
+      },
+      "company": {
+        "name": "Pacific Tech",
+        "position": "Cloud Architect",
+        "department": "IT Infrastructure"
+      }
+    },
+    {
+      "id": 10,
+      "name": "RM Cancho",
+      "email": "rm.cancho@example.com",
+      "phone": "+1-617-555-0133",
+      "address": {
+        "street": "707 Harvard Avenue",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02134"
+      },
+      "company": {
+        "name": "Boston Dynamics Research",
+        "position": "AI Researcher",
+        "department": "Machine Learning"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Sherwin",
+      "email": "sherwin@example.com",
+      "phone": "+1-312-555-0111",
+      "address": {
+        "street": "808 Lake Shore Drive",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60611"
+      },
+      "company": {
+        "name": "Windy City Software",
+        "position": "Frontend Developer",
+        "department": "Web Development"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Briane",
+      "email": "briane@example.com",
+      "phone": "+1-404-555-0199",
+      "address": {
+        "street": "909 Peachtree Street",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30309"
+      },
+      "company": {
+        "name": "Southern Logistics",
+        "position": "Supply Chain Manager",
+        "department": "Operations"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Nicole",
+      "email": "nicole@example.com",
+      "phone": "+1-305-555-0167",
+      "address": {
+        "street": "1010 Ocean Drive",
+        "city": "Miami Beach",
+        "state": "FL",
+        "zip": "33139"
+      },
+      "company": {
+        "name": "Sunshine Marketing",
+        "position": "Digital Marketer",
+        "department": "Marketing"
+      }
+    }
+  ]
